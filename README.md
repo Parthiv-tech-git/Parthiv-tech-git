@@ -6,6 +6,8 @@ Hello! This is parthiv kumar I am 17 year old  , and I am from the beautiful and
 I am a person who values honesty, discipline, and continuous learning. I am always eager to explore new opportunities that help me grow personally and professionally. I believe in staying positive, working hard, and being kind to others. I enjoy meeting new people, learning about different perspectives, and building meaningful relationships.
 
 In my free time, I like to listen to music, explore local culture, or spend time with family and friends. I also take a keen interest in  studies, technology, art, etc.
+
+
 ##EDUCATION   🌱 I’m currently learning ...
 
 
