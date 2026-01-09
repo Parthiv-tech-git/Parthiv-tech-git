@@ -16,7 +16,7 @@ HTML · CSS · JavaScript · React · Git ,basic python.
 “Looking for internship opportunities in Frontend / Web Development.”
 
 **Parthiv-tech-git/Parthiv-tech-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**Parthiv-tech-git/joke-genarator**
-**Parthiv-tech-git/simple-cal**
-**Parthiv-tech-git/counter**
+**Parthiv-tech-git/joke-genarator** .
+**Parthiv-tech-git/simple-cal** .
+**Parthiv-tech-git/counter** .
 
