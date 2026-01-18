@@ -31,7 +31,7 @@ Here are some of my practice projects:
 - 🧮 Simple interest    **Parthiv-tech-git/simple-cal** .
 - 🔢 Counter App        **Parthiv-tech-git/counter** .
 - ⚛️ joke genarator     **Parthiv-tech-git/joke-genarator** 
-- ⚛️ ADDING 
+- ⚛️ ADDING             **Parthiv-tech-git/ADDING** 
 👉 Check my repositories to see more.
 
 ---
