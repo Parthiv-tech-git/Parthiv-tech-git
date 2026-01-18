@@ -18,7 +18,7 @@ I enjoy building user-friendly web applications and improving my skills every da
 ## 🛠️ Tech Stack
 
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Python, Django (Learning)
+- Backend: Python  (Learning)
 - Tools: Git, GitHub, VS Code
 
 ---
@@ -27,10 +27,10 @@ I enjoy building user-friendly web applications and improving my skills every da
 
 Here are some of my practice projects:
 -
--- README file    **Parthiv-tech-git/Parthiv-tech-git** 
-- 🧮 Simple interest **Parthiv-tech-git/simple-cal** .
-- 🔢 Counter App  **Parthiv-tech-git/counter** .
-- ⚛️ joke genarator **Parthiv-tech-git/joke-genarator** 
+-- README file          **Parthiv-tech-git/Parthiv-tech-git** 
+- 🧮 Simple interest    **Parthiv-tech-git/simple-cal** .
+- 🔢 Counter App        **Parthiv-tech-git/counter** .
+- ⚛️ joke genarator     **Parthiv-tech-git/joke-genarator** 
 - ⚛️ ADDING 
 👉 Check my repositories to see more.
 
@@ -38,7 +38,7 @@ Here are some of my practice projects:
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com
+- 📧 Email: your-dparthivkumar@gmsil.com
 - 💼 GitHub: https://github.com/Parthiv-tech-git
 ---
 
