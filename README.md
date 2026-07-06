@@ -7,9 +7,9 @@ I enjoy building user-friendly web applications and improving my skills every da
 
 ## 🚀 About Me
 
-- 🎓 Diploma Student (4th Semester)
-- 💻 Learning Python Full-Stack Development
-- 🌱 Currently focusing on HTML, CSS, JavaScript, React & Python
+- 🎓 Diploma Student (5th Semester)
+- 💻 Learning mern Full-Stack Development
+- 🌱 Currently focusing on HTML, CSS, JavaScript, React ,node js,express &mysql
 - 🎯 Looking for Frontend Developer Internship (Remote)
 - ⚡ I love creating small projects and experimenting with new ideas
 
@@ -18,7 +18,7 @@ I enjoy building user-friendly web applications and improving my skills every da
 ## 🛠️ Tech Stack
 
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Python  (Learning)
+- Backend: node js (express)&mysql  (Learning)
 - Tools: Git, GitHub, VS Code
 
 ---
