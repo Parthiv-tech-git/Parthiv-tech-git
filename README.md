@@ -1,6 +1,6 @@
 #  👋 Hi, I'm Parthiv Kumar
 
-I'm a passionate young developer learning Frontend & Full-Stack Web Development.
+I'am really passionate  in computer science   , I am  learning Frontend & Full-Stack Web Development with the tech skills of HTML, CSS, JavaScript, React ,node js,express & mysql.
 I enjoy building user-friendly web applications and improving my skills every day.
 
 ---
@@ -31,7 +31,8 @@ Here are some of my practice projects:
 - 🧮 Simple interest    **Parthiv-tech-git/simple-cal** .
 - 🔢 Counter App        **Parthiv-tech-git/counter** .
 - ⚛️ joke genarator     **Parthiv-tech-git/joke-genarator** 
-- ⚛️ ADDING             **Parthiv-tech-git/ADDING** 
+- ⚛️ ADDING             **Parthiv-tech-git/ADDING**
+- dictionary              **Parthiv-tech-git/dictionary**
 👉 Check my repositories to see more.
 
 ---
