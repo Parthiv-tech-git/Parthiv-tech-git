@@ -39,7 +39,7 @@ Here are some of my practice projects:
 
 ## 📫 Contact Me
 
-- 📧 Email: your-dparthivkumar@gmsil.com
+- 📧 Email: dparthivkumar@gmail.com
 - 💼 GitHub: https://github.com/Parthiv-tech-git
 ---
 
