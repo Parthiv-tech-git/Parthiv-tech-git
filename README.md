@@ -32,8 +32,13 @@ Here are some of my practice projects:
 - 🔢 Counter App        **Parthiv-tech-git/counter** .
 - ⚛️ joke genarator     **Parthiv-tech-git/joke-genarator** 
 - ⚛️ ADDING             **Parthiv-tech-git/ADDING**
-- dictionary              **Parthiv-tech-git/dictionary**
-👉 Check my repositories to see more.
+- dictionary              **Parthiv-tech-git/dictionary**  [click to visit](https://dictionary1-black.vercel.app/)
+- profile                 **Parthiv-tech-git/profile** [click to visit the application](https://profile-hazel-tau.vercel.app/)
+- aj-shopping               **Parthiv-tech-git/profile** [click to visit the application](https://aj-shopping-reac-tvite.vercel.app/) 
+-
+-
+-
+- 👉 Check my repositories to see more.
 
 ---
 
