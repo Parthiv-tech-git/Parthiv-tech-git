@@ -35,9 +35,6 @@ Here are some of my practice projects:
 - dictionary              **Parthiv-tech-git/dictionary**  [click to visit](https://dictionary1-black.vercel.app/)
 - profile                 **Parthiv-tech-git/profile** [click to visit the application](https://profile-hazel-tau.vercel.app/)
 - aj-shopping               **Parthiv-tech-git/profile** [click to visit the application](https://aj-shopping-reac-tvite.vercel.app/) 
--
--
--
 - 👉 Check my repositories to see more.
 
 ---
